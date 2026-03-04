@@ -32,5 +32,6 @@ class StreamDemo
                                   .toList();
 
         System.out.println(str5);
+        System.out.println(str5);
     }
 }
